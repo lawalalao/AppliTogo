@@ -48,8 +48,7 @@
 | [TogoZik](https://play.google.com/store/apps/details?id=com.togozik.mobile)| Application mobile pour écouter les musiques Togolaises|
 | [All Pharma Togo](https://play.google.com/store/apps/details?id=net.allnovatech.pharmaciestogo)| Trouver les pharmacies de gardes sur toute l’étendue du territoire Togolais |
 | [DokitaEyes](https://play.google.com/store/apps/details?id=com.eba.de)| Avoir un médecin de famille afin de bénéficier d'un suivi préventif et curatif grâce à son carnet de santé digital. |
-| [Ahomé Dokita](https://play.google.com/store/apps/details?id=com.liginmlugudor.ahomedokita) | Vous êtes une personne âgée? Vous désirez vous faire soigner à domicile sans se déplacer par des professionnels de santé? Ahomé Dokita est faite pour vous. Inscrivez-vous dès aujourd'hui.
- |
+| [Ahomé Dokita](https://play.google.com/store/apps/details?id=com.liginmlugudor.ahomedokita) | Vous êtes une personne âgée? Vous désirez vous faire soigner à domicile sans se déplacer par des professionnels de santé? Ahomé Dokita est faite pour vous. Inscrivez-vous dès aujourd'hui.|
 | [Pocket Services](https://play.google.com/store/apps/details?id=com.gant.pocketservices) | PocketServices est un outil innovant simplifiant l'utilisation des codes USSD dans les domaines de transfert d'argent Moov et Tmoney, payement marchand, payement de factures, souscription aux forfaits etc. | 
 | [PicHub](https://play.google.com/store/apps/details?id=com.claudylab.pichub) | PicHub est un hub de plus d'un million de photos en qualité HD que vous pouvez télécharger et utiliser gratuitement.. |
 | [Half](https://play.google.com/store/apps/details?id=tg.codersfortogo.half) | Half, désignant moitié en Anglais est une application de rencontre basée sur la géolocalisation qui vous permet de faire de nouvelles rencontres, de tisser des liens d'amitié et d'amour avec des gens proches de vous |
