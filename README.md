@@ -1,6 +1,8 @@
 # Appli made in Togo
 > Collection des applications made in Togo
 
+## Applications mobiles
+
 | Site web | Description |
 | ----------------------- | ------------------ |
 | [Etoiles'DièzPay](https://play.google.com/store/apps/details?id=com.devcrea.etoilesdiez)| *#Pay est une application qui facilite l’accès des abonnés aux services des opérateurs mobiles au Togo (TOGOCEL et MOOV) sans connaissance préalable des codes USSD. |
@@ -44,3 +46,27 @@
 | [Susunote](https://play.google.com/store/apps/details?id=tedi.kakatsi.unicode)| SusuNote est une application de prise de notes spécialisée dans la prise en charge de plusieurs types de notes et pour vous aider à les structurer.|
 | [FoireTogo2000](https://play.google.com/store/apps/details?id=com.cetef.foiretogo2000)| «FoireTogo2000» est l’application officielle des Foires du Togo (Foire internationale de Lomé, Foire Made in Togo, etc) organisées par le CETEF : le rendez-vous de toutes les opportunités d’affaires.|
 | [TogoZik](https://play.google.com/store/apps/details?id=com.togozik.mobile)| Application mobile pour écouter les musiques Togolaises|
+| [All Pharma Togo](https://play.google.com/store/apps/details?id=net.allnovatech.pharmaciestogo)| Trouver les pharmacies de gardes sur toute l’étendue du territoire Togolais |
+| [DokitaEyes](https://play.google.com/store/apps/details?id=com.eba.de)| Avoir un médecin de famille afin de bénéficier d'un suivi préventif et curatif grâce à son carnet de santé digital. |
+| [Ahomé Dokita](https://play.google.com/store/apps/details?id=com.liginmlugudor.ahomedokita) | Vous êtes une personne âgée? Vous désirez vous faire soigner à domicile sans se déplacer par des professionnels de santé? Ahomé Dokita est faite pour vous. Inscrivez-vous dès aujourd'hui.
+ |
+| [Pocket Services](https://play.google.com/store/apps/details?id=com.gant.pocketservices) | PocketServices est un outil innovant simplifiant l'utilisation des codes USSD dans les domaines de transfert d'argent Moov et Tmoney, payement marchand, payement de factures, souscription aux forfaits etc. | 
+| [PicHub](https://play.google.com/store/apps/details?id=com.claudylab.pichub) | PicHub est un hub de plus d'un million de photos en qualité HD que vous pouvez télécharger et utiliser gratuitement.. |
+| [Half](https://play.google.com/store/apps/details?id=tg.codersfortogo.half) | Half, désignant moitié en Anglais est une application de rencontre basée sur la géolocalisation qui vous permet de faire de nouvelles rencontres, de tisser des liens d'amitié et d'amour avec des gens proches de vous |
+| [Social Content Saver](https://play.google.com/store/apps/details?id=com.claudylab.scsaver) | Sauvegarder des photos, des vidéos, stories depuis vos comptes sociaux avec une seule application... |
+| [NossMart](https://play.google.com/store/apps/details?id=com.nossmart.nossmart) | Application de petites annonces gratuites pour particuliers et professionnels. |
+| [ParcAuto](https://play.google.com/store/apps/details?id=com.itex.parcauto) | Achetez et vendez votre voiture neuve ou d'occasion sur l'application ParcAuto. |
+| [givers](https://play.google.com/store/apps/details?id=tg.giver.app) | givers vient comme une approche de solution à la problématique de pénurie de poches de sang au Togo. |
+| [Mekano](https://play.google.com/store/apps/details?id=com.mekanopro.Mekano) | Mekano est une plateforme mobile qui permet aux automobilistes en cas de pannes de pouvoir trouver des garages, d’y accéder et suivre les prestations des garagistes |
+| [Bindoo Mobile](https://play.google.com/store/apps/details?id=com.mediasoft.bindoomobile) | L'application mobile Bindoo vous permet de profiter des services offerts par vos Microfinances dans le confort de votre appareil mobile. |
+| [TopKif](https://play.google.com/store/apps/details?id=xyz.appmaker.xfedfi) | Avec Top Kif ™ , partagez les choses qui vous passionnent avec vos ami.e.s, vos fans, votre famille et vos collaborateurs |
+| [NViNiO Meet](https://play.google.com/store/apps/details?id=xyz.appmaker.rviepy) | NViNiO Meet ™ ( N.Meet™ ) est une application de messagerie qui vous permet d'échanger en toute discrétion avec vos collaborateurs et vos partenaires d'affaires. NViNiO Meet, Work in Progress | © NViNiO |
+| [Miledoo](https://play.google.com/store/apps/details?id=com.miledoo.idMiledoo) | Miledoo est une marketplace qui permet de faire la vente en ligne au Togo. |
+| [FastApp](https://play.google.com/store/apps/details?id=com.fastservice.fastapp) | FastApp est une plate-forme (site et application mobile smartphone/tablette) dédiée à la livraison de courses à domicile à la demande géolocalisée |
+| [Madunu](https://play.google.com/store/apps/details?id=com.martinoyovo.madunu) | Madunu te permet de trouver gratuitement les vendeurs locaux d'Ayimolou, de Véyi, de Khom partout au Togo |
+| [Vroom car rental](https://play.google.com/store/apps/details?id=com.carrental.vroom) | Vroom est une application de location de voiture de toutes catégories et de toutes gammes. Faites depuis l'application mobile des pré-réservations de voitures dans nos agences partenaires ou chez des particuliers. |
+| [Kiya](https://play.google.com/store/apps/details?id=com.kiyakou.app) | Kiya est une simple application d'épicerie. Nous vous assurons une meilleure course en épicerie, au marché pour vos approvisionnements en produits de première nécessité, légumes, fruits, viandes, poissons etc. |
+| [Constitution du Togo](https://play.google.com/store/apps/details?id=com.mobincube.constitution_du_togo.sc_5G7N16) | La constitution actuelle du Togo est la quatrième ; elle a été adoptée par référendum le 27 septembre 1992 et révisée par la loi n° 2002-029 du 31 décembre 2002. |
+| [Code du Travail du Togo](https://play.google.com/store/apps/details?id=com.topapps223.ordi.codedutravaildutogo) | Cette application android contient des articles sur le code du travail de la république du Togo. |
+| [Ikooko](https://play.google.com/store/apps/details?id=com.ikooko.ikooko)| Ikooko est une application qui vous permet de trouver des professionnels dans votre zone géographique. |
+| [Maplenou](https://play.google.com/store/apps/details?id=com.amsardigital.maplenou) | Maplenou vous permet de mettre rapidement vos produits en ligne et de les vendre rapidement. |
