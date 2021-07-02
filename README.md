@@ -1,7 +1,7 @@
 # Appli made in Togo
 > Collection des applications made in Togo
 
-## Applications mobiles
+## Applications mobiles (67)
 
 | Lien Playstore | Description |
 | ----------------------- | ------------------ |
@@ -72,13 +72,13 @@
 | [clinicAgro](https://play.google.com/store/apps/details?id=com.clinicagro) |L'Agro-médecine à votre portée... |
 | [TCHOSSA](https://play.google.com/store/apps/details?id=com.tchossa) | TCHOSSA un système de dialogue qui utilise l'intelligence artificielle pour répondre automatiquement et en temps réel aux questions liées aux maladies, à des produits de banques ,assurances,etc ... . TCHOSSA peut être intégrer dans les plateformes e-santé, des hôpitaux, clinniques, banques ,assurances, etc... |
 
-## Applications web
+## Applications web (02)
 | Site web | Description |
 | ----------------------- | ------------------ |
 |[ChapChap](https://chapchap.tg)|Livraison rapide et sécurisée pour les professionnels|
 |[Docmava](https://www.docmava.tg/) | Docmava permet aux médecins et aux cabinets de mieux gérer les rendez-vous de consultation en réduisant considérablement les rendez-vousnon honorés. |
 
-## Sites e-commerce
+## Sites e-commerce (09)
 | Site web | Description |
 | ----------------------- | ------------------ |
 |[ASSIHUB](https://assihub.com/)| ASSIHUB-TOGO est la meilleure boutique-en-ligne du Togo qui vous serve des produits Américains de haute qualité. Pour plus d’information |
