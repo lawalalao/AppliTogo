@@ -18,7 +18,6 @@
 | [Relika](https://play.google.com/store/apps/details?id=tg.relika.app)| RELIKA est une solution logicielle au problème de manquants de reliquat après une opération d’achat/vente dans les petits commerces|
 | [NamCrédit](https://play.google.com/store/apps/details?id=com.labosoft.namcredit)| L'application mobile de transfert d'argent, de recharge en crédit de communication et en forfait internet en utilisant les services Moov et Togocel |
 | [Olayi](https://play.google.com/store/apps/details?id=com.mssb.TGC&hl=fr)| Trouver où manger le meilleur koliko, prendre un verre entre amis, ou encore le dernier coin à la mode.|
-| [Dokita Eyes](https://play.google.com/store/apps/details?id=com.eba.de)| Application mobile d'e-santé au Togo|
 | [Giraaff Togo](https://play.google.com/store/apps/details?id=com.giraaff.tg)| Une application du site [Giraaff Togo](https://www.giraaff.com) pour faire du shopping sur mobile|
 | [AIGE - Aéroport de Lomé](https://play.google.com/store/apps/details?id=com.aige.droid)| Retrouver les horaires de vols de l'Aéroport International Gnassingbe Eyadéma, Actualités, Météo des grandes villes du Togo|
 | [Zonoa](https://play.google.com/store/apps/details?id=com.zonoaeducation.zonoa)| L’App ZONOA vous donne accès à vos résumés de cours et quiz 24h/24 et 7 jours sur 7|
