@@ -3,7 +3,7 @@
 
 ## Applications mobiles
 
-| Site web | Description |
+| Lien Playstore | Description |
 | ----------------------- | ------------------ |
 | [Etoiles'DièzPay](https://play.google.com/store/apps/details?id=com.devcrea.etoilesdiez)| *#Pay est une application qui facilite l’accès des abonnés aux services des opérateurs mobiles au Togo (TOGOCEL et MOOV) sans connaissance préalable des codes USSD. |
 | [OkpaBac](https://play.google.com/store/apps/details?id=com.okpafaces.okpabac)| L'application de référence pour réviser ses cours et réussir son Bac |
@@ -69,3 +69,25 @@
 | [Code du Travail du Togo](https://play.google.com/store/apps/details?id=com.topapps223.ordi.codedutravaildutogo) | Cette application android contient des articles sur le code du travail de la république du Togo. |
 | [Ikooko](https://play.google.com/store/apps/details?id=com.ikooko.ikooko)| Ikooko est une application qui vous permet de trouver des professionnels dans votre zone géographique. |
 | [Maplenou](https://play.google.com/store/apps/details?id=com.amsardigital.maplenou) | Maplenou vous permet de mettre rapidement vos produits en ligne et de les vendre rapidement. |
+| [MIAGBO](https://play.google.com/store/apps/details?id=tg.centech.miagbo)| L'application MIAGBO (qui veut dire Chez Nous en Ewe) vient révolutionner le monde d'e-commerce. |
+| [clinicAgro](https://play.google.com/store/apps/details?id=com.clinicagro) |L'Agro-médecine à votre portée... |
+| [TCHOSSA](https://play.google.com/store/apps/details?id=com.tchossa) | TCHOSSA un système de dialogue qui utilise l'intelligence artificielle pour répondre automatiquement et en temps réel aux questions liées aux maladies, à des produits de banques ,assurances,etc ... . TCHOSSA peut être intégrer dans les plateformes e-santé, des hôpitaux, clinniques, banques ,assurances, etc... |
+
+## Applications web
+| Site web | Description |
+| ----------------------- | ------------------ |
+|[ChapChap](https://chapchap.tg)|Livraison rapide et sécurisée pour les professionnels|
+|[Docmava](https://www.docmava.tg/) | Docmava permet aux médecins et aux cabinets de mieux gérer les rendez-vous de consultation en réduisant considérablement les rendez-vousnon honorés. |
+
+## Sites e-commerce
+| Site web | Description |
+| ----------------------- | ------------------ |
+|[ASSIHUB](https://assihub.com/)| ASSIHUB-TOGO est la meilleure boutique-en-ligne du Togo qui vous serve des produits Américains de haute qualité. Pour plus d’information |
+|[Miledoo](http://www.miledoo.net) | Achat et vente en ligne. Création de boutique en ligne au Togo. Offre de services à la diaspora. |
+| [TOGO INFORMATIQUE](http://www.togoinformatique.com) | Fournisseurs de matériels et de services informatiques au Togo |
+| [Assivito](https://www.assivito.com/) | ASSIVITO signifie « au bord du Petit Marché » en Ewe. Ce nom est emprunté d'​un centre d'affaire qui se situe au cœur de la ville de Lomé, devenant ASSIVITO.|
+|[Boenli](https://boenli.wordpress.com/)| Articles High-tech |
+|[Nicelia](https://nicelia.com/)| Achetez des produits de toutes les catégories et faites vous livrez n'importe où au Togo. Avec Nicelia vous trouverez des produits informatique, électroménager |
+|[CoinAfrique](https://tg.coinafrique.com/)| Plateforme web de petites annonces en produits neufs et occasions et en services les catégories : véhicule, immobilier, mode, etc.|
+|[Miaplenou](https://tg.miaplenou.com/)| Site e-commerce d'achat et vente des produits électroménager, produits de mode et électroniques |
+|[Assiyeyeme](https://assiyeyeme.tg/boutique/)| ASSIYEYEME est un site de vente en ligne de produits artisanaux. Il fait la promotion de l’artisanat Made In Togo, en commercialisant les produits d’artisans locaux. |
