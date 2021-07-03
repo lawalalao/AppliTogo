@@ -1,24 +1,24 @@
 # Appli made in Togo
 > Collection des applications made in Togo
 
-## Applications mobiles
+## Applications mobiles (67)
 
-| Site web | Description |
+| Lien Playstore | Description |
 | ----------------------- | ------------------ |
 | [Etoiles'DièzPay](https://play.google.com/store/apps/details?id=com.devcrea.etoilesdiez)| *#Pay est une application qui facilite l’accès des abonnés aux services des opérateurs mobiles au Togo (TOGOCEL et MOOV) sans connaissance préalable des codes USSD. |
 | [OkpaBac](https://play.google.com/store/apps/details?id=com.okpafaces.okpabac)| L'application de référence pour réviser ses cours et réussir son Bac |
 | [ZOVU](https://play.google.com/store/apps/details?id=info.zovutogo.zovumobile)|ZOVU est un logiciel tripartite (Web, Desktop et Mobile) destiné aux acteurs (apprenants, tuteurs d’apprenants, enseignants, responsables d’écoles, responsables des services public chargés de l’enseignement) du monde éducatif.|
 | [Kaba](https://play.google.com/store/apps/details?id=tg.tmye.kaba.brave.one)|Kaba est une application de livraison de menus restaurants à la demande, au Togo.|
+| [KIRIKOU](https://play.google.com/store/apps/details?id=tg.tmye.kaba_i_deliver) | Application dédiée aux livreurs de la plateforme de livraison KABA |
 | [GoZem](https://play.google.com/store/apps/details?id=com.gozem)|Gozem est une plateforme technologique de transport (Moto, Tricycles, Taxi) pour l'Afrique de l'Ouest.|
-| [Gozem Driver](https://play.google.com/store/apps/details?id=com.gozem)| L’application pour les chauffeurs Gozem|
+| [Gozem Champion](https://play.google.com/store/apps/details?id=com.gozem.provider)| L’application pour les chauffeurs Gozem|
+| [Gozem Marchand](https://play.google.com/store/apps/details?id=com.gozem.merchant)| Gozem Marchand est la Super App pour les entreprises qui leur fournit une suite de services pour repondre a leurs besoins de tous les jours. |
 | [SuiSco](https://play.google.com/store/apps/details?id=net.school.suisco)|SuiSco est une solution numérique destinée à apporter des réponses et des informations scolaires de manière pratique et concrète|
 | [Made in Togo](https://play.google.com/store/apps/details?id=com.madeintogo.mobile)|Une application d’information en temps réel sur les produits, services et innovations d’origine togolaise|
-| [Annuaires Togo](https://play.google.com/store/apps/details?id=com.annuaire.togo)| Annuaire des professionnels et des particuliers du Togo|
 | [GoAnnonce](https://play.google.com/store/apps/details?id=com.koslog.goannonce)| GoAnnonce est une application de petites annonces et un excellent moyen d’acheter ou vendre rapidement|
 | [Relika](https://play.google.com/store/apps/details?id=tg.relika.app)| RELIKA est une solution logicielle au problème de manquants de reliquat après une opération d’achat/vente dans les petits commerces|
 | [NamCrédit](https://play.google.com/store/apps/details?id=com.labosoft.namcredit)| L'application mobile de transfert d'argent, de recharge en crédit de communication et en forfait internet en utilisant les services Moov et Togocel |
 | [Olayi](https://play.google.com/store/apps/details?id=com.mssb.TGC&hl=fr)| Trouver où manger le meilleur koliko, prendre un verre entre amis, ou encore le dernier coin à la mode.|
-| [Dokita Eyes](https://play.google.com/store/apps/details?id=com.eba.de)| Application mobile d'e-santé au Togo|
 | [Giraaff Togo](https://play.google.com/store/apps/details?id=com.giraaff.tg)| Une application du site [Giraaff Togo](https://www.giraaff.com) pour faire du shopping sur mobile|
 | [AIGE - Aéroport de Lomé](https://play.google.com/store/apps/details?id=com.aige.droid)| Retrouver les horaires de vols de l'Aéroport International Gnassingbe Eyadéma, Actualités, Météo des grandes villes du Togo|
 | [Zonoa](https://play.google.com/store/apps/details?id=com.zonoaeducation.zonoa)| L’App ZONOA vous donne accès à vos résumés de cours et quiz 24h/24 et 7 jours sur 7|
@@ -46,7 +46,6 @@
 | [Susunote](https://play.google.com/store/apps/details?id=tedi.kakatsi.unicode)| SusuNote est une application de prise de notes spécialisée dans la prise en charge de plusieurs types de notes et pour vous aider à les structurer.|
 | [FoireTogo2000](https://play.google.com/store/apps/details?id=com.cetef.foiretogo2000)| «FoireTogo2000» est l’application officielle des Foires du Togo (Foire internationale de Lomé, Foire Made in Togo, etc) organisées par le CETEF : le rendez-vous de toutes les opportunités d’affaires.|
 | [TogoZik](https://play.google.com/store/apps/details?id=com.togozik.mobile)| Application mobile pour écouter les musiques Togolaises|
-| [All Pharma Togo](https://play.google.com/store/apps/details?id=net.allnovatech.pharmaciestogo)| Trouver les pharmacies de gardes sur toute l’étendue du territoire Togolais |
 | [DokitaEyes](https://play.google.com/store/apps/details?id=com.eba.de)| Avoir un médecin de famille afin de bénéficier d'un suivi préventif et curatif grâce à son carnet de santé digital. |
 | [Ahomé Dokita](https://play.google.com/store/apps/details?id=com.liginmlugudor.ahomedokita) | Vous êtes une personne âgée? Vous désirez vous faire soigner à domicile sans se déplacer par des professionnels de santé? Ahomé Dokita est faite pour vous. Inscrivez-vous dès aujourd'hui.|
 | [Pocket Services](https://play.google.com/store/apps/details?id=com.gant.pocketservices) | PocketServices est un outil innovant simplifiant l'utilisation des codes USSD dans les domaines de transfert d'argent Moov et Tmoney, payement marchand, payement de factures, souscription aux forfaits etc. | 
@@ -69,4 +68,33 @@
 | [Code du Travail du Togo](https://play.google.com/store/apps/details?id=com.topapps223.ordi.codedutravaildutogo) | Cette application android contient des articles sur le code du travail de la république du Togo. |
 | [Ikooko](https://play.google.com/store/apps/details?id=com.ikooko.ikooko)| Ikooko est une application qui vous permet de trouver des professionnels dans votre zone géographique. |
 | [Maplenou](https://play.google.com/store/apps/details?id=com.amsardigital.maplenou) | Maplenou vous permet de mettre rapidement vos produits en ligne et de les vendre rapidement. |
+| [MIAGBO](https://play.google.com/store/apps/details?id=tg.centech.miagbo)| L'application MIAGBO (qui veut dire Chez Nous en Ewe) vient révolutionner le monde d'e-commerce. |
+| [ClinicAgro](https://play.google.com/store/apps/details?id=com.clinicagro) |L'Agro-médecine à votre portée... |
+| [TCHOSSA](https://play.google.com/store/apps/details?id=com.tchossa) | TCHOSSA un système de dialogue qui utilise l'intelligence artificielle pour répondre automatiquement et en temps réel aux questions liées aux maladies, à des produits de banques ,assurances,etc ... . TCHOSSA peut être intégrer dans les plateformes e-santé, des hôpitaux, clinniques, banques ,assurances, etc... |
+|[Melinet_tg](https://play.google.com/store/apps/details?id=com.coleta.melinettg)| Melinet_tg vous offre la facilité d'accéder aux offres de ces opérateurs télécoms par de simples clics. |
+|[My Budget Management](https://play.google.com/store/apps/details?id=com.coleta.my_budget_management)|Planifiez et gérez efficacement votre budget sur la règle "20-50-30" de Alexa Von Tobel. Vous pourrez suivre directement suivre la vidéo instructive dans l'application.|
+|[Médjira](https://play.google.com/store/apps/details?id=com.elumya.medjira)| Médjira l’appli qui facilite tous les échanges au quotidien ! |
+|[Ebillet](https://play.google.com/store/apps/details?id=ebillet.elumyas.com)| Ebillet app vous permet de réserver vos billets à partir du smartphone! |
+|[228 Actu](https://play.google.com/store/apps/details?id=tGNAndroid.TGNAndroid)| 228 actu est une application qui permet à ses utilisateurs de rester connectés à l'actualité togolaise. Des articles de sources diverses et variées sont mis à disposition en temps réel. Plus que des articles, l'application vous permet de regarder le JT de TVT |
+| [Pubingoo](https://play.google.com/store/apps/details?id=com.pubingoo.mobile) | Pubingoo est une plateforme de promotion des produits et services des marques et entreprises aux petits budgets de communication basée sur le partage d’images sur les réseaux sociaux. Pour se faire, créez gratuitement un compte entreprise dès maintenant! |
+|[Convertify](https://play.google.com/store/apps/details?id=com.deventhusiast.convertify)| Convertify est une application de conversion de devises simple mais intuitive qui permet de convertir tout montant souhaité dans la devise de votre choix. Vous pouvez obtenir les taux de change en temps réel entre les devises et les convertir de n'importe quelle devise dans la devise de votre choix. |
+|[TogoZik](https://play.google.com/store/apps/details?id=com.togozik.mobile)| Musique Togolaise |
+
+## Applications web (02)
+| Site web | Description |
+| ----------------------- | ------------------ |
 | [Chapchap](https://chapchap.tg) | chapchap est une application web de livraisons de plis et colis a la demande pour les professionnels au TOGO |
+|[Docmava](https://www.docmava.tg/) | Docmava permet aux médecins et aux cabinets de mieux gérer les rendez-vous de consultation en réduisant considérablement les rendez-vousnon honorés. |
+
+## Sites e-commerce (09)
+| Site web | Description |
+| ----------------------- | ------------------ |
+|[ASSIHUB](https://assihub.com/)| ASSIHUB-TOGO est la meilleure boutique-en-ligne du Togo qui vous serve des produits Américains de haute qualité. Pour plus d’information |
+|[Miledoo](http://www.miledoo.net) | Achat et vente en ligne. Création de boutique en ligne au Togo. Offre de services à la diaspora. |
+| [TOGO INFORMATIQUE](http://www.togoinformatique.com) | Fournisseurs de matériels et de services informatiques au Togo |
+| [Assivito](https://www.assivito.com/) | ASSIVITO signifie « au bord du Petit Marché » en Ewe. Ce nom est emprunté d'​un centre d'affaire qui se situe au cœur de la ville de Lomé, devenant ASSIVITO.|
+|[Boenli](https://boenli.wordpress.com/)| Articles High-tech |
+|[Nicelia](https://nicelia.com/)| Achetez des produits de toutes les catégories et faites vous livrez n'importe où au Togo. Avec Nicelia vous trouverez des produits informatique, électroménager |
+|[CoinAfrique](https://tg.coinafrique.com/)| Plateforme web de petites annonces en produits neufs et occasions et en services les catégories : véhicule, immobilier, mode, etc.|
+|[Miaplenou](https://tg.miaplenou.com/)| Site e-commerce d'achat et vente des produits électroménager, produits de mode et électroniques |
+|[Assiyeyeme](https://assiyeyeme.tg/boutique/)| ASSIYEYEME est un site de vente en ligne de produits artisanaux. Il fait la promotion de l’artisanat Made In Togo, en commercialisant les produits d’artisans locaux. |
