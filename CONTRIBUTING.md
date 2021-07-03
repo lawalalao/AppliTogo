@@ -5,7 +5,7 @@ Si vous êtes bloqué quelque part, contactez-nous sur **[Twitter](https://twitt
 
 ## Prérequis 🎯
 
-Aucune compétence particulière n'est requise, juste savoir manipuler un fichier MD et avoir toutes les informations sur le projet que vous voulez ajouter à cette liste 😉.
+Aucune compétence particulière n'est requise, juste savoir [manipuler un fichier MD](https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_fr.md) et avoir toutes les informations sur le projet que vous voulez ajouter à cette liste 😉.
 
 * Après cela, vous pouvez Fork ce repo sur votre compte personnel.
 
